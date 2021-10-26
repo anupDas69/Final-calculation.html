@@ -1,2 +1,2 @@
-This my my first project coding in javaScript
+This my my first project coding in JavaScript
 
